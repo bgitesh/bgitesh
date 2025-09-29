@@ -1,3 +1,1 @@
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/bgitesh/snk/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/bgitesh/snk/output/github-contribution-grid-snake-dark.svg)
