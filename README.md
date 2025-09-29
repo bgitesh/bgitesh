@@ -16,8 +16,7 @@ I love building projects, automating tasks, and continuously improving my techni
 
 ![Gitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgitesh&show_icons=true&theme=radical)
 
-![DevOps Quote](https://img.shields.io/badge/Trust_the_process-Test_the_process-blue?style=for-the-badge)
-
+![Quote](https://quotes-github-readme.vercel.app/api?quote=DevOps%20is%20not%20a%20goal%2C%20but%20a%20never-ending%20process%20of%20continuous%20improvement.&theme=radical)
 
 ---
 
@@ -38,4 +37,5 @@ I love building projects, automating tasks, and continuously improving my techni
 </picture>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bgitesh&color=green&style=flat-square)
+
 
