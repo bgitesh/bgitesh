@@ -16,10 +16,7 @@ I love building projects, automating tasks, and continuously improving my techni
 
 ![Gitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgitesh&show_icons=true&theme=radical)
 
-![Quote](https://quotes-github-readme.vercel.app/api?quote=Trust%20the%20process.%0ATest%20the%20process.&theme=radical)
-
-
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -40,8 +37,3 @@ I love building projects, automating tasks, and continuously improving my techni
 </picture>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bgitesh&color=green&style=flat-square)
-
-
-
-
-
